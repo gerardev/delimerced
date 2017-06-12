@@ -16,5 +16,12 @@ namespace delimerced
         {
             InitializeComponent();
         }
+
+        private void btnEventos_Click(object sender, EventArgs e)
+        {
+            frmEventos eventos = new frmEventos();
+            eventos.Show();
+            this.Hide();
+        }
     }
 }
