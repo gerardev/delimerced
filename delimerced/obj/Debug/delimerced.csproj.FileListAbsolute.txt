@@ -1,2 +1,3 @@
 C:\Users\gerar\Source\Repos\delimerced\delimerced\delimerced\bin\Debug\delimerced.exe.config
 C:\Users\gerar\Documents\delimerced\delimerced\bin\Debug\delimerced.exe.config
+C:\Users\AndrésdeJesús\Documents\GitHub\delimerced\delimerced\bin\Debug\delimerced.exe.config
