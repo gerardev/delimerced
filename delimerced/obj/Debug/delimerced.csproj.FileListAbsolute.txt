@@ -1,2 +1,12 @@
 C:\Users\gerar\Source\Repos\delimerced\delimerced\delimerced\bin\Debug\delimerced.exe.config
 C:\Users\gerar\Documents\delimerced\delimerced\bin\Debug\delimerced.exe.config
+C:\Users\AndrésdeJesús\Documents\GitHub\delimerced\delimerced\bin\Debug\delimerced.exe.config
+C:\Users\AndrésdeJesús\Documents\GitHub\delimerced\delimerced\bin\Debug\delimerced.exe
+C:\Users\AndrésdeJesús\Documents\GitHub\delimerced\delimerced\bin\Debug\delimerced.pdb
+C:\Users\AndrésdeJesús\Documents\GitHub\delimerced\delimerced\obj\Debug\delimerced.csprojResolveAssemblyReference.cache
+C:\Users\AndrésdeJesús\Documents\GitHub\delimerced\delimerced\obj\Debug\delimerced.Form1.resources
+C:\Users\AndrésdeJesús\Documents\GitHub\delimerced\delimerced\obj\Debug\delimerced.frmEventos.resources
+C:\Users\AndrésdeJesús\Documents\GitHub\delimerced\delimerced\obj\Debug\delimerced.Properties.Resources.resources
+C:\Users\AndrésdeJesús\Documents\GitHub\delimerced\delimerced\obj\Debug\delimerced.csproj.GenerateResource.Cache
+C:\Users\AndrésdeJesús\Documents\GitHub\delimerced\delimerced\obj\Debug\delimerced.exe
+C:\Users\AndrésdeJesús\Documents\GitHub\delimerced\delimerced\obj\Debug\delimerced.pdb
